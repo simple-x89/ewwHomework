@@ -1,3 +1,3 @@
 # ewwHomework
-homework repo for BSEE studies
-what you'll find here are mostly labs and quick helper scripts
+Homework repo for BSEE studies.
+What you'll find here are mostly EE lab projects and quick helper scripts
